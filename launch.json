@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "DesfioContador vs2_ae627f3b"
+        },
+        {
+            "type": "java",
+            "name": "Executar Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "DesfioContador vs2"
+        }
+    ]
+}
